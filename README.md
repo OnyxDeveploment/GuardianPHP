@@ -43,8 +43,8 @@ The scanner detects a wide range of PHP security flaws, including:
 ---
 
 ## 🛠️ **Requirements**
-- Python **>= 3.0**
-- Flask **(For Web UI)**
+- Python
+- Flask
 
 ---
 
@@ -60,7 +60,7 @@ The scanner detects a wide range of PHP security flaws, including:
 2.  Change to the project directory:
         
      ```bash
-      cd GuardianPHP/ 
+      cd GuardianPHP
      ```
     
 3.  Install the dependencies using Composer:
